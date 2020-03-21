@@ -1,22 +1,15 @@
 # WAI
 #### 以下是对Tips for Getting Started Writing for Web Accessibility进行的翻译。
 ![](images/1.png)
-<<<<<<< HEAD
 ## 编写Web可访问性
 在[入门提示中](https://www.w3.org/WAI/tips/)
+摘要 | &#160;
+:- | :-
+此页面介绍了一些基本注意事项，以帮助您开始编写残障人士更容易访问的Web内容。这些技巧是帮助您满足Web Content Accessibility Guidelines（WCAG）要求的良好实践。遵循相关WCAG要求的链接，“理解”文档中的详细背景，教程指南，用户案例等。 | &#160; 
 
-摘要 |  | 
-:-|
-此页面介绍了一些基本注意事项，以帮助您开始编写残障人士更容易访问的Web内容。这些技巧是帮助您满足Web Content Accessibility Guidelines（WCAG）要求的良好实践。遵循相关WCAG要求的链接，“理解”文档中的详细背景，教程指南，用户案例等。 | 
 
-=======
-## 编写Web可访问性  
 
-在[入门提示中](https://www.w3.org/WAI/tips/)  
- 摘要 |  | 
-- | 
- 此页面介绍了一些基本注意事项，以帮助您开始编写残障人士更容易访问的Web内容。这些技巧是帮助您满足Web Content Accessibility Guidelines（WCAG）要求的良好实践。遵循相关WCAG要求的链接，“理解”文档中的详细背景，教程指南，用户案例等。  | 
->>>>>>> e142f37a2d34e8246ede51fa5b2a84b52906d6fc
+
 * * *
 
 ##### 页面内容
